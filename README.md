@@ -7,28 +7,57 @@
 
 <br>
 
-### 👩‍💻 Machine Learning Engineer | MLOps & GenAI Specialist
-
-I hold an **M.S. in Computer Science from the Rochester Institute of Technology (Graduated Dec 2025)**, with over 5 years of enterprise experience building and deploying machine learning systems. I specialize in bridging the gap between applied research and production grade MLOps, focusing on Large Language Models (LLMs), RAG architectures, and scalable cloud deployments.
-
-**🚀 Current Focus:**
-* **Applied GenAI:** Architecting full-stack Retrieval-Augmented Generation (RAG) systems using FastAPI, Vector Databases (Pinecone/ChromaDB), and LangChain.
-* **LLMOps:** Building autonomous multi-agent systems and deploying containerized ML pipelines using Docker on AWS and Azure.
-* **Clinical AI Research:** Leading advanced fine-tuning of medical LLMs (MedGemma, QLoRA) and building GraphRAG pipelines for automated clinical diagnostics.
+### 👨‍💻 Senior Machine Learning & MLOps Engineer
+**M.S. in Computer Science, Rochester Institute of Technology (Graduated Dec 2025)**
+I specialize in architecting end-to-end ML pipelines and productionizing LLM applications. With 5+ years of enterprise experience (TCS, Gorbel), I bridge the gap between academic research and scalable, high-impact business solutions.
 
 ---
 
-### 🛠️ Technologies & Tools
-
-**Languages & Core:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Machine Learning & GenAI:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-
-**Cloud & MLOps:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+### 🔭 Current Focus
+* **LLMOps at Scale:** Developing robust RAG architectures using FastAPI, Vector Databases, and LangGraph.
+* **GraphRAG Research:** Implementing Knowledge Graphs for clinical diagnostics to improve retrieval accuracy in medical LLMs.
+* **Autonomous Agents:** Building multi-agent systems for automated financial and medical document analysis.
 
 ---
 
-### 📈 Recent Impact Highlights
-* **Supply Chain Optimization:** Architected Azure ML infrastructure for Gorbel Inc., optimizing procurement for 10,000+ SKUs.
-* **Medical AI Research:** Developed MedGemma-based LLM with GraphRAG for echocardiogram analysis at RIT, achieving 82.5% F1.
-* **Dynamic Pricing:** Engineered AWS MLOps pipelines at TCS, reducing pricing turnaround from 30 minutes to under 5 seconds.
+### ⚡ Technologies & Skills
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, SQL, PySpark, Bash, Java |
+| **ML/GenAI** | PyTorch, TensorFlow, HuggingFace, LangChain, LlamaIndex, GraphRAG |
+| **Data Engineering** | Databricks, Spark, SQL Server, Kafka, Airflow |
+| **DevOps/MLOps** | Docker, Terraform, Kubernetes, MLflow, AWS (SageMaker/ECS), Azure ML |
+
+---
+
+### 📚 Featured Projects
+
+#### ❇️ Clinical GraphRAG & Medical LLM
+Developed a fine-tuned MedGemma + QLoRA architecture for echocardiogram report analysis. Integrated GraphRAG to connect clinical entities, achieving 90% diagnostic recall.
+* **Tech:** MedGemma, QLoRA, AWS SageMaker, Neo4j, LangChain
+
+#### ❇️ Financial Document Multi-Agent System
+Built an end-to-end RAG microservice for 10-K report analysis. Productionized via FastAPI and Docker, featuring automated citation-backed grounding.
+* **Tech:** Python, FastAPI, QLoRA, ChromaDB, Docker
+
+#### ❇️ Real-Time Dynamic Pricing Engine
+Architected a production-ready MLOps pipeline for vehicle pricing. Automated 80% of inventory pricing, reducing turnaround from 30m to <5s per vehicle.
+* **Tech:** LightGBM, AWS MLOps (Step Functions, ECS), Terraform, MLflow
+
+---
+
+### 📝 Research & Publications
+* **ASME FEDSM 2026:** "Machine Learning Applied for Instant Predictions of Spatial Temperature Variations in Heat Sinks for Computer Chip Cooling."
+* **Advanced LLM Research:** Focused on Retrieval-Augmented Generation for specialized clinical domains.
+
+---
+
+### 📊 GitHub Stats
+![Reetu's GitHub stats](https://github-readme-stats.vercel.app/api?username=reetu95&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reetu95&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+I am passionate about building production-grade AI systems that solve complex enterprise problems. Let's discuss MLOps, LLMs, or the future of Clinical AI.
