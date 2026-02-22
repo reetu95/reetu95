@@ -7,49 +7,53 @@
 
 <br>
 
-### 👨‍💻 Senior Machine Learning & MLOps Engineer
-**M.S. in Computer Science, Rochester Institute of Technology (Graduated Dec 2025)**
-I specialize in architecting end-to-end ML pipelines and productionizing LLM applications. With 5+ years of enterprise experience (TCS, Gorbel), I bridge the gap between academic research and scalable, high-impact business solutions.
+### 👨‍💻 Senior Machine Learning Engineer | MLOps Specialist
+**M.S. in Computer Science, Rochester Institute of Technology (Graduated Dec 2025)** I bridge the gap between AI research and enterprise production. With 5+ years of experience at TCS and Gorbel, I specialize in building MLOps pipelines that deliver measurable ROI, including $180K in annual savings and 360x faster system turnaround.
 
 ---
 
 ### 🔭 Current Focus
-* **LLMOps at Scale:** Developing robust RAG architectures using FastAPI, Vector Databases, and LangGraph.
-* **GraphRAG Research:** Implementing Knowledge Graphs for clinical diagnostics to improve retrieval accuracy in medical LLMs.
-* **Autonomous Agents:** Building multi-agent systems for automated financial and medical document analysis.
+* **Scalable RAG:** Architecting production-ready Retrieval-Augmented Generation using FastAPI and Vector Databases.
+* **LLMOps:** Fine-tuning MedGemma and QLoRA for high-accuracy clinical diagnostics.
+* **Autonomous Agents:** Developing GraphRAG systems to automate entity retrieval in complex medical/financial reports.
+* **Enterprise MLOps:** Deploying containerized ML pipelines with automated CI/CD on AWS and Azure.
 
 ---
 
 ### ⚡ Technologies & Skills
 
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | Python, SQL, PySpark, Bash, Java |
-| **ML/GenAI** | PyTorch, TensorFlow, HuggingFace, LangChain, LlamaIndex, GraphRAG |
-| **Data Engineering** | Databricks, Spark, SQL Server, Kafka, Airflow |
-| **DevOps/MLOps** | Docker, Terraform, Kubernetes, MLflow, AWS (SageMaker/ECS), Azure ML |
+**Languages & Data**
+* Python, SQL, PySpark, Bash, Linux
+
+**Machine Learning & GenAI**
+* PyTorch, TensorFlow, Hugging Face, LangChain, QLoRA, GraphRAG, MedGemma
+
+**Data Engineering & MLOps**
+* AWS (SageMaker, ECS, Lambda), Azure ML, Docker, Terraform, MLflow, Databricks, Kafka
 
 ---
 
 ### 📚 Featured Projects
 
-#### ❇️ Clinical GraphRAG & Medical LLM
-Developed a fine-tuned MedGemma + QLoRA architecture for echocardiogram report analysis. Integrated GraphRAG to connect clinical entities, achieving 90% diagnostic recall.
-* **Tech:** MedGemma, QLoRA, AWS SageMaker, Neo4j, LangChain
+#### ❇️ Real-Time Dynamic Pricing Engine (TCS)
+Architected an AWS MLOps pipeline for vehicle pricing, scaling to 80% of enterprise inventory and reducing turnaround from 30m to <5s.
+* **Tech:** LightGBM, AWS Step Functions, ECS, Docker, Terraform, MLflow
 
-#### ❇️ Financial Document Multi-Agent System
-Built an end-to-end RAG microservice for 10-K report analysis. Productionized via FastAPI and Docker, featuring automated citation-backed grounding.
-* **Tech:** Python, FastAPI, QLoRA, ChromaDB, Docker
+#### ❇️ Clinical GraphRAG & LLM Pipeline (RIT)
+Built a fine-tuned MedGemma + QLoRA system for echocardiogram analysis, achieving 82.5% F1 and 90% diagnostic recall.
+* **Tech:** Python, AWS SageMaker, MedGemma, QLoRA, GraphRAG
 
-#### ❇️ Real-Time Dynamic Pricing Engine
-Architected a production-ready MLOps pipeline for vehicle pricing. Automated 80% of inventory pricing, reducing turnaround from 30m to <5s per vehicle.
-* **Tech:** LightGBM, AWS MLOps (Step Functions, ECS), Terraform, MLflow
+#### ❇️ Supply Chain Automation System (Gorbel)
+Engineered an Azure-based Gradient Boosting model optimizing 10k monthly decisions, saving 525 labor hours and $15K monthly.
+* **Tech:** Azure ML, Databricks, Data Factory, SQL Server, Power BI
 
 ---
 
-### 📝 Research & Publications
-* **ASME FEDSM 2026:** "Machine Learning Applied for Instant Predictions of Spatial Temperature Variations in Heat Sinks for Computer Chip Cooling."
-* **Advanced LLM Research:** Focused on Retrieval-Augmented Generation for specialized clinical domains.
+### 📝 Technical Blog Posts (Medium)
+* **[Demystifying Feature Normalization](https://medium.com/@reetuthimmaiah)** - Deep dive into data scaling techniques for model stability.
+* **[Geometric Interpretation of Principal Component Analysis](https://medium.com/@reetuthimmaiah)** - Visualizing dimensionality reduction.
+* **[CRUD operations on DynamoDB using AWS Boto3](https://medium.com/@reetuthimmaiah)** - Engineering cloud-native data storage solutions.
+* **[Simple Linear Regression & Perceptrons](https://medium.com/@reetuthimmaiah)** - Foundations of neural architecture.
 
 ---
 
@@ -60,4 +64,4 @@ Architected a production-ready MLOps pipeline for vehicle pricing. Automated 80%
 ---
 
 ### 📫 Let's Connect!
-I am passionate about building production-grade AI systems that solve complex enterprise problems. Let's discuss MLOps, LLMs, or the future of Clinical AI.
+I am looking for full-time opportunities where I can apply my MLOps and GenAI expertise to solve complex business challenges.
