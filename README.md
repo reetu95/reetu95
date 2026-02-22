@@ -49,11 +49,17 @@ Engineered an Azure-based Gradient Boosting model optimizing 10k monthly decisio
 
 ---
 
+### 🔍 Research Publications
+* **ASME FEDSM 2026:** "Machine Learning Applied for Instant Predictions of Spatial Temperature Variations in Heat Sinks for Computer Chip Cooling."
+* **Advanced Medical AI:** Currently architecting GraphRAG and MedGemma-based pipelines for automated clinical diagnostics at RIT.
+
+---
+
 ### 📝 Technical Blog Posts (Medium)
 * **[Demystifying Feature Normalization](https://medium.com/@reetuthimmaiah)** - Deep dive into data scaling techniques for model stability.
-* **[Geometric Interpretation of Principal Component Analysis](https://medium.com/@reetuthimmaiah)** - Visualizing dimensionality reduction.
+* **[Geometric Interpretation of PCA](https://medium.com/@reetuthimmaiah)** - Visualizing dimensionality reduction and feature extraction.
 * **[CRUD operations on DynamoDB using AWS Boto3](https://medium.com/@reetuthimmaiah)** - Engineering cloud-native data storage solutions.
-* **[Simple Linear Regression & Perceptrons](https://medium.com/@reetuthimmaiah)** - Foundations of neural architecture.
+* **[Simple Linear Regression & Perceptrons](https://medium.com/@reetuthimmaiah)** - Exploring the foundations of neural architectures.
 
 ---
 
