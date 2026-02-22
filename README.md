@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Machine Learning Engineer | MLOps & GenAI Specialist
 
-I hold an **M.S. in Computer Science from the Rochester Institute of Technology (Graduated Dec 2025)**, with over 5 years of enterprise experience building and deploying machine learning systems. I specialize in bridging the gap between applied research and production-grade MLOps, focusing on Large Language Models (LLMs), RAG architectures, and scalable cloud deployments.
+I hold an **M.S. in Computer Science from the Rochester Institute of Technology (Graduated Dec 2025)**, with over 5 years of enterprise experience building and deploying machine learning systems. I specialize in bridging the gap between applied research and production grade MLOps, focusing on Large Language Models (LLMs), RAG architectures, and scalable cloud deployments.
 
 **🚀 Current Focus:**
 * **Applied GenAI:** Architecting full-stack Retrieval-Augmented Generation (RAG) systems using FastAPI, Vector Databases (Pinecone/ChromaDB), and LangChain.
