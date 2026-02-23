@@ -63,11 +63,5 @@ Engineered an Azure-based Gradient Boosting model optimizing 10k monthly decisio
 
 ---
 
-### 📊 GitHub Stats
-![Reetu's GitHub stats](https://github-readme-stats.vercel.app/api?username=reetu95&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reetu95&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 I am looking for full-time opportunities where I can apply my MLOps and GenAI expertise to solve complex business challenges.
