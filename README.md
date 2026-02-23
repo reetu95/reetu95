@@ -1,4 +1,4 @@
-# Hi there, I'm Reetu Thimmaiah 👋
+# Hi there, I'm Reetu Thimmaiah 
 
 <div align="left">
   <a href="https://linkedin.com/in/reetu-t"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
