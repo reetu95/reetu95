@@ -8,7 +8,8 @@
 <br>
 
 ### 👨‍💻 Senior Machine Learning Engineer | MLOps Specialist
-**M.S. in Computer Science, Rochester Institute of Technology (Graduated Dec 2025)** I bridge the gap between AI research and enterprise production. With 5+ years of experience at TCS and Gorbel, I specialize in building MLOps pipelines that deliver measurable ROI, including $180K in annual savings and 360x faster system turnaround.
+**M.S. in Computer Science, Rochester Institute of Technology (Graduated Dec 2025)** 
+I bridge the gap between AI research and enterprise production. With 5+ years of experience at TCS and Gorbel, I specialize in building MLOps pipelines that deliver measurable ROI, including $180K in annual savings and 360x faster system turnaround.
 
 ---
 
