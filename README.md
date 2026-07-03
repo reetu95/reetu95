@@ -9,8 +9,8 @@
 ## Data Engineer
 
 Data Engineer with 7 years of experience building batch and streaming data
-platforms — Azure (Databricks, ADF, Delta Lake, dbt), Kafka, Snowflake, and
-AWS — including AI-ready pipelines for ML and RAG systems.
+platforms, Azure (Databricks, ADF, Delta Lake, dbt), Kafka, Snowflake, and
+AWS, including AI-ready pipelines for ML and RAG systems.
 M.S. in Computer Science, Rochester Institute of Technology (May 2026).
 
 ---
