@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Kafka+%E2%86%92+Spark+%E2%86%92+Delta+Lake+on+Databricks;Agentic+RAG+%26+LLM+Evaluation;7+years+turning+raw+events+into+trusted+data" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Kafka+%E2%86%92+Spark+%E2%86%92+Delta+Lake+on+Databricks;Agentic+RAG+%26+LLM+Evaluation;7+years+turning+raw+events+into+trusted+data" alt="typing" />
 
 </div>
 
