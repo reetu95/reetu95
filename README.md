@@ -1,52 +1,62 @@
-# Hi, I'm Reetu Thimmaiah
+<div align="center">
 
-<div align="left">
-<a href="https://linkedin.com/in/reetu-t"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:reetu.thimmaiah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+![Reetu Thimmaiah — Data Engineer](assets/hero.svg)
+
+<a href="https://linkedin.com/in/reetu-t"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:reetu.thimmaiah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://medium.com/@reetuthimmaiah"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
 </div>
+
 <br>
 
-## Data Engineer
-
-Data Engineer with 7 years of experience building batch and streaming data platforms — Azure (Databricks, ADF, Delta Lake, dbt), Kafka, Snowflake, and AWS — including AI-ready pipelines for ML and RAG systems.
+Data Engineer with **7 years of experience** building batch and streaming data platforms — Azure (Databricks, ADF, Delta Lake, dbt), Kafka, Snowflake, and AWS — including AI-ready pipelines for ML and RAG systems.
 
 M.S. in Computer Science, Rochester Institute of Technology (May 2026).
 
----
+<br>
 
-## Projects
-
-### 🔧 Data Engineering
+## 🔧 Data Engineering
 
 [![Real-Time Inventory Lakehouse — Kafka to Spark Structured Streaming to Delta Lake](assets/realtime-inventory-lakehouse.svg)](https://github.com/reetu95/realtime-inventory-lakehouse)
-**[Real-Time Inventory Lakehouse](https://github.com/reetu95/realtime-inventory-lakehouse)** *(featured · in progress)*
-Streaming Medallion pipeline: Kafka → Spark Structured Streaming → Delta Lake on Databricks. Exactly-once ingestion verified across failure recovery, watermark-based deduplication, and quarantine-driven data quality that caught a silent NULL-propagation bug dropping 20% of events. [Full build log in the repo →](https://github.com/reetu95/realtime-inventory-lakehouse)
 
-### 🤖 AI & GenAI
+> **Featured · in progress** — quarantine-driven data quality caught a silent NULL-propagation bug dropping 20% of events. [Repo & full build log →](https://github.com/reetu95/realtime-inventory-lakehouse)
+
+<br>
+
+## 🤖 AI & GenAI
 
 [![AI-Powered Financial Document Analysis — agentic RAG pipeline](assets/financial-doc-analysis.svg)](https://github.com/reetu95/AI-Powered-Financial-Document-Analysis)
-**[AI-Powered Financial Document Analysis](https://github.com/reetu95/AI-Powered-Financial-Document-Analysis)**
-Agentic RAG system (Llama 3.1, LangGraph, FAISS, BM25) iterated V1→V3 to **41.5% numerical accuracy** on FinanceBench — vs GPT-4 Turbo's 19% baseline.
+
+> Iterated V1→V3 on FinanceBench to more than double GPT-4 Turbo's baseline. [Repo →](https://github.com/reetu95/AI-Powered-Financial-Document-Analysis)
+
+<br>
 
 ![AI Medical Report Analysis — agentic Graph RAG pipeline](assets/medical-report-analysis.svg)
-**AI Medical Report Analysis** *(accepted as conference abstract)*
-Agentic Graph RAG pipeline that reads heart-scan PDFs, extracts clinical measurements, and classifies severity — **76% accuracy on highest-risk cases**.
+
+> **Accepted as conference abstract** — reads heart-scan PDFs, extracts clinical measurements, classifies severity.
+
+<br>
 
 [![Enterprise RAG Service — production retrieval pipeline](assets/enterprise-rag-service.svg)](https://github.com/reetu95/enterprise-rag-service)
-**[Enterprise RAG Service](https://github.com/reetu95/enterprise-rag-service)**
-Production-grade RAG pipeline with asynchronous document ingestion, OCR fallback for scanned PDFs, and metadata-orchestrated retrieval.
 
-### 📊 Data Science & ML
+> Async ingestion, OCR fallback for scanned PDFs, metadata-orchestrated retrieval. [Repo →](https://github.com/reetu95/enterprise-rag-service)
+
+<br>
+
+## 📊 Data Science & ML
 
 [![Real-Time Dynamic Pricing Engine — LightGBM on AWS MLOps](assets/dynamic-pricing-engine.svg)](https://github.com/reetu95/AutopricingNew)
-**[Real-Time Dynamic Pricing Engine](https://github.com/reetu95/AutopricingNew)**
-ML pricing model (LightGBM) deployed as an AWS MLOps pipeline — Step Functions, ECS, Docker, Terraform, MLflow — cutting turnaround from 30 minutes to under 5 seconds.
+
+> LightGBM shipped as an AWS MLOps pipeline — Step Functions, ECS, Docker, Terraform, MLflow. [Repo →](https://github.com/reetu95/AutopricingNew)
+
+<br>
 
 [![AWS CI/CD ML Pipeline — automated build, test, release](assets/aws-cicd-ml-pipeline.svg)](https://github.com/reetu95/AWS-CI-CD-Proejct)
-**[AWS CI/CD ML Pipeline](https://github.com/reetu95/AWS-CI-CD-Proejct)**
-End-to-end CI/CD for ML model deployment on AWS with automated build, test, and release stages.
 
----
+> End-to-end CI/CD for ML model deployment on AWS. [Repo →](https://github.com/reetu95/AWS-CI-CD-Proejct)
+
+<br>
 
 ## Skills
 
@@ -64,7 +74,7 @@ End-to-end CI/CD for ML model deployment on AWS with automated build, test, and 
 
 **Databases & Warehouses:** Snowflake, Azure SQL, PostgreSQL, MySQL, Amazon RDS, MongoDB
 
----
+<br>
 
 ## Research & Writing
 
@@ -72,6 +82,10 @@ End-to-end CI/CD for ML model deployment on AWS with automated build, test, and 
 - **Accepted abstract:** AI Medical Report Analysis — Agentic Graph RAG for heart-scan severity classification
 - [Blog posts on Medium](https://medium.com/@reetuthimmaiah)
 
----
+<br>
 
-📫 Open to **Data Engineering** roles — reetu.thimmaiah@gmail.com
+<div align="center">
+
+📫 Open to **Data Engineering** roles — <a href="mailto:reetu.thimmaiah@gmail.com">reetu.thimmaiah@gmail.com</a>
+
+</div>
