@@ -26,6 +26,18 @@ Data Engineer with **7 years of experience** building batch and streaming data p
 
 <br>
 
+[![Airbnb dbt + Snowflake Pipeline](assets/dbt-snowflake-airbnb.svg)](https://github.com/reetu95/DBT-Snowflake-project)
+
+**[Airbnb dbt + Snowflake Pipeline](https://github.com/reetu95/DBT-Snowflake-project)** — refactored medallion lineage into staging → bronze → silver → gold dims/facts → OBT reporting model; 27/27 dbt tests passing with snapshots and incremental models
+
+<br>
+
+[![End-to-End Airbnb Data Pipeline](assets/airbnb-end-to-end.svg)](https://github.com/reetu95/End-to-End-Data-Engineering-Project-Airbnb-)
+
+**[End-to-End Airbnb Data Pipeline](https://github.com/reetu95/End-to-End-Data-Engineering-Project-Airbnb-)** — full pipeline from raw Airbnb source data to analytics-ready tables
+
+<br>
+
 ### 🤖 AI & GenAI
 
 [![AI-Powered Financial Document Analysis](assets/financial-doc-analysis.svg)](https://github.com/reetu95/AI-Powered-Financial-Document-Analysis)
@@ -64,7 +76,7 @@ Data Engineer with **7 years of experience** building batch and streaming data p
 
 **Data Engineering & Streaming**
 
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /> <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /> <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge" /> <img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge" /> <img src="https://img.shields.io/badge/ETL%20%2F%20ELT%20Pipelines-F5A524?style=for-the-badge" /> <img src="https://img.shields.io/badge/Medallion%20Architecture-B87333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Star%20Schema-1B2436?style=for-the-badge" /> <img src="https://img.shields.io/badge/Schema%20Design-1B2436?style=for-the-badge" /> <img src="https://img.shields.io/badge/SCD-1B2436?style=for-the-badge" />
 
 **Programming & BI**
 
