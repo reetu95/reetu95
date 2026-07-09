@@ -14,17 +14,17 @@
 
 <br>
 
-Data Engineer with **7 years of experience** building batch and streaming data platforms — Azure (Databricks, ADF, Delta Lake, dbt), Kafka, Snowflake, and AWS — including AI-ready pipelines for ML and RAG systems. M.S. in Computer Science, Rochester Institute of Technology (May 2026).
+Data Engineer with **7 years of experience** building batch and streaming data platforms on Azure (Databricks, ADF, Delta Lake, dbt), Kafka, Snowflake and AWS, including AI ready pipelines for ML and RAG systems. M.S. in Computer Science, Rochester Institute of Technology (May 2026).
 
 <br>
 
 ### 🔧 Data Engineering
 
-**[Real-Time Inventory Lakehouse](https://github.com/reetu95/realtime-inventory-lakehouse)** · *featured, in progress*
+**[Real Time Inventory Lakehouse](https://github.com/reetu95/realtime-inventory-lakehouse)** · *featured, in progress*
 
 `Kafka → Spark Structured Streaming → Delta Lake (Bronze / Silver / Gold) on Databricks`
 
-Exactly-once streaming Medallion pipeline, verified across failure recovery and watermark-based deduplication — quarantine-driven data quality caught a silent NULL bug dropping **20% of events**.
+A streaming pipeline that processes inventory events the moment they happen. Every event is counted exactly once, even when the system fails and recovers. A built in quality check quarantines bad records automatically and caught a hidden bug that was silently dropping **20% of events**.
 
 **[→ All Data Engineering projects](https://github.com/reetu95/projects#-data-engineering)**
 
@@ -32,11 +32,11 @@ Exactly-once streaming Medallion pipeline, verified across failure recovery and 
 
 ### 🤖 AI & GenAI
 
-**[AI-Powered Financial Document Analysis](https://github.com/reetu95/AI-Powered-Financial-Document-Analysis)**
+**[AI Powered Financial Document Analysis](https://github.com/reetu95/AI-Powered-Financial-Document-Analysis)**
 
 `Financial PDFs → FAISS + BM25 hybrid retrieval → LangGraph agent → Llama 3.1`
 
-Agentic RAG iterated V1→V3 to **41.5% numerical accuracy** on FinanceBench — more than double GPT-4 Turbo's 19% baseline.
+An AI system that reads financial reports and answers questions about the numbers inside them. It reviews and corrects its own answers before responding. It scored **41.5% on the FinanceBench test**, more than double the 19% scored by GPT 4 Turbo.
 
 **[→ All AI & GenAI projects](https://github.com/reetu95/projects#-ai--genai)**
 
@@ -44,11 +44,11 @@ Agentic RAG iterated V1→V3 to **41.5% numerical accuracy** on FinanceBench —
 
 ### 📊 Data Science & ML
 
-**[Real-Time Dynamic Pricing Engine](https://github.com/reetu95/AutopricingNew)**
+**[Vehicle Price Prediction with AWS CI/CD](https://github.com/reetu95/AWS-CI-CD-Proejct)**
 
-`Market data → Feature engineering → LightGBM → Step Functions + ECS`
+`Used car data → Train and compare models (CatBoost, XGBoost) → Flask web app → Docker → Amazon ECR`
 
-ML pricing model shipped as an AWS MLOps pipeline (Docker, Terraform, MLflow) — pricing turnaround cut from 30 minutes to **under 5 seconds**.
+A web app that predicts the fair price of a used car from details like brand, year, mileage and accident history. Several models are trained and compared to pick the best one. Every code push automatically builds a Docker image and deploys the app to AWS through **GitHub Actions**.
 
 **[→ All Data Science & ML projects](https://github.com/reetu95/projects#-data-science--ml)**
 
@@ -68,15 +68,15 @@ ML pricing model shipped as an AWS MLOps pipeline (Docker, Terraform, MLflow) �
 
 ### 📄 Research & Writing
 
-- **ASME FEDSM 2026** — ML for instant prediction of spatial temperature variations in heat-sink cooling
-- **Accepted abstract** — AI Medical Report Analysis: Agentic Graph RAG for heart-scan severity classification
+- **ASME FEDSM 2026**: ML for instant prediction of spatial temperature variations in heat sink cooling
+- **Accepted abstract**: AI Medical Report Analysis, an agentic Graph RAG system for heart scan severity classification
 - ✍️ [Blog posts on Medium](https://medium.com/@reetuthimmaiah)
 
 <br>
 
 <div align="center">
 
-📫 Open to **Data Engineering** roles — <a href="mailto:reetu.thimmaiah@gmail.com">reetu.thimmaiah@gmail.com</a>
+📫 Open to **Data Engineering** roles: <a href="mailto:reetu.thimmaiah@gmail.com">reetu.thimmaiah@gmail.com</a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F5A524,50:A78BFA,100:2DD4BF&height=110&section=footer)
 
