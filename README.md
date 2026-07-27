@@ -48,7 +48,7 @@ Fine-tuned a medical LLM and built a graph-based retrieval pipeline that links c
 
 <br>
 
-### ⚙️ Data & ML Engineering
+### ⚙️ Data Engineering
 
 **[Real Time Inventory Lakehouse](https://github.com/reetu95/realtime-inventory-lakehouse)** · *in progress*
 
