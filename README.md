@@ -15,7 +15,13 @@
 
 <br>
 
-Data and ML practitioner with **7 years of experience** building end-to-end systems from raw events to production — batch and streaming data platforms (Kafka, Spark, Databricks, Delta Lake, dbt, Snowflake, Azure, AWS), predictive modeling and MLOps, and increasingly agentic AI and RAG systems. Comfortable owning the full path from pipeline to model to deployed app across supply chain, clinical diagnostics and e-commerce. M.S. in Computer Science, Rochester Institute of Technology (May 2026).
+Hi, I’m Reetu 
+
+I work across the full data lifecycle, from building reliable data pipelines and analytics systems to developing machine learning models and deploying them in production.
+
+Over the past 7 years, I’ve worked across both data engineering and data science in supply chain, clinical diagnostics, manufacturing, and e-commerce. My experience includes Kafka, Spark, Databricks, Snowflake, dbt, Azure, and AWS.
+
+I recently completed my M.S. in Computer Science at Rochester Institute of Technology.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
 
