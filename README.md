@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F5A524,50:A78BFA,100:2DD4BF&height=190&section=header&text=Reetu%20Thimmaiah&fontSize=58&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Engineering%20%C2%B7%20Machine%20Learning%20%C2%B7%20Applied%20AI&descSize=17&descAlignY=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F5A524,50:A78BFA,100:2DD4BF&height=190&section=header&text=Reetu%20Thimmaiah&fontSize=58&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Engineering%20%C2%B7%20Data%20Science%20%C2%B7%20Applied%20AI&descSize=17&descAlignY=52)
 
 <a href="https://linkedin.com/in/reetu-t"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:reetu.thimmaiah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
@@ -16,13 +16,6 @@
 <br>
 
 Data and ML practitioner with **7 years of experience** building end-to-end systems from raw events to production — batch and streaming data platforms (Kafka, Spark, Databricks, Delta Lake, dbt, Snowflake, Azure, AWS), predictive modeling and MLOps, and increasingly agentic AI and RAG systems. Comfortable owning the full path from pipeline to model to deployed app across supply chain, clinical diagnostics and e-commerce. M.S. in Computer Science, Rochester Institute of Technology (May 2026).
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=reetu95&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=2DD4BF&text_color=808080&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reetu95&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=808080&langs_count=8" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
 
@@ -99,7 +92,7 @@ A web app that predicts the fair price of a used car from details like brand, ye
 
 <div align="center">
 
-📫 Open to **Data Engineering, Data Science, Machine Learning and Applied AI** roles &nbsp;·&nbsp; <a href="mailto:reetu.thimmaiah@gmail.com">reetu.thimmaiah@gmail.com</a>
+📫 Open to **Data Engineering, Data Science and Applied AI** roles &nbsp;·&nbsp; <a href="mailto:reetu.thimmaiah@gmail.com">reetu.thimmaiah@gmail.com</a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F5A524,50:A78BFA,100:2DD4BF&height=110&section=footer)
 
