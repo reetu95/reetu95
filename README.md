@@ -29,17 +29,18 @@ M.S. Computer Science, RIT. Research on ML surrogates for thermal prediction pub
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
 
-### ⚙️ Data Engineering
+### 📊 Data Science & ML
 
-**[Real Time Inventory Lakehouse](https://github.com/reetu95/realtime-inventory-lakehouse)** &nbsp; <img src="https://img.shields.io/badge/Featured-A78BFA?style=flat-square" /> <img src="https://img.shields.io/badge/In_Progress-F5A524?style=flat-square" />
+**[Vehicle Price Prediction with AWS CI/CD](https://github.com/reetu95/AWS-CI-CD-Proejct)** &nbsp; <img src="https://img.shields.io/badge/Featured-A78BFA?style=flat-square" />
 
-`Kafka → Spark Structured Streaming → Delta Lake (Bronze / Silver / Gold) on Databricks`
+`Used car data → CatBoost / XGBoost model bake-off → Flask app → Docker → Amazon ECR`
 
-A streaming pipeline that processes inventory events the moment they happen, counting every event exactly once even through failure and recovery. A built-in quality check quarantines bad records automatically and caught a hidden bug that was silently dropping **20% of events**.
+A web app that predicts the fair price of a used car from details like brand, year, mileage and accident history. Several models are trained and compared to pick the best performer, and every code push automatically builds a Docker image and deploys the app to AWS through **GitHub Actions**.
 
-**[→ All Data Engineering projects](https://github.com/reetu95/projects#-data-engineering)**
+**[→ All Data Science & ML projects](https://github.com/reetu95/projects#-data-science--ml)**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
+
 
 ### 🤖 AI & GenAI
 
@@ -59,23 +60,9 @@ Fine-tuned a medical LLM and built a graph-based retrieval pipeline that links c
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
 
-### 📊 Data Science & ML
 
-**[Vehicle Price Prediction with AWS CI/CD](https://github.com/reetu95/AWS-CI-CD-Proejct)** &nbsp; <img src="https://img.shields.io/badge/Featured-A78BFA?style=flat-square" />
-
-`Used car data → CatBoost / XGBoost model bake-off → Flask app → Docker → Amazon ECR`
-
-A web app that predicts the fair price of a used car from details like brand, year, mileage and accident history. Several models are trained and compared to pick the best performer, and every code push automatically builds a Docker image and deploys the app to AWS through **GitHub Actions**.
-
-**[→ All Data Science & ML projects](https://github.com/reetu95/projects#-data-science--ml)**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
 
 ### 🛠️ Core Stack
-
-**Data Engineering & Streaming**
-
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /> <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge" />
 
 **ML & Modeling**
 
