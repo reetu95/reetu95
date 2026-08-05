@@ -15,13 +15,17 @@
 
 <br>
 
-Hi, I’m Reetu 
+Hi, I'm Reetu
 
-I work across the full data lifecycle, from building reliable data pipelines and analytics systems to developing machine learning models and deploying them in production.
+I build machine learning systems and ship them to production: pipelines, models, APIs, and the evaluation harnesses that keep them honest.
 
-Over the past 7 years, I’ve worked across both data engineering and data science in supply chain, clinical diagnostics, manufacturing, and e-commerce. My experience includes Kafka, Spark, Databricks, Snowflake, dbt, Azure, and AWS.
+Over 7 years across manufacturing, supply chain, retail pricing, and ecommerce, I've built demand forecasting for 6,500+ SKUs across five plants and deployed a pricing model behind a REST API that cut turnaround from 30 minutes to 5 seconds, both with automated retraining and monitoring.
 
-I recently completed my M.S. in Computer Science at Rochester Institute of Technology.
+Lately I've been working with LLMs: agentic RAG with LangGraph and Llama 3.1, multi agent workflows with CrewAI, and evaluation harnesses using RAGAS.
+
+Toolkit: Python, SQL, PyTorch, Spark, Kafka, Databricks, Snowflake, dbt, MLflow, AWS, Azure
+
+M.S. Computer Science, RIT. Research on ML surrogates for thermal prediction published at ASME FEDSM 2026.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
 
