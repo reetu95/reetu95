@@ -82,7 +82,6 @@ Fine-tuned a medical LLM and built a graph-based retrieval pipeline that links c
 
 - **ASME FEDSM 2026** — Machine learning for instant prediction of spatial temperature variations in heat sinks for computer chip cooling
 - **Published** — Towards utilizing machine learning and computational fluid dynamics in the classroom for high heat dissipation
-- **Accepted abstract** — AI Medical Report Analysis: an agentic Graph RAG system for heart scan severity classification
 - ✍️ [Blog posts on Medium](https://medium.com/@reetuthimmaiah)
 
 <br>
