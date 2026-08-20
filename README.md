@@ -50,12 +50,6 @@ A web app that predicts the fair price of a used car from details like brand, ye
 
 An AI system that reads financial reports and answers questions about the numbers inside them, reviewing and correcting its own answers before responding. It scored **41.5% on FinanceBench** — more than double the 19% scored by GPT 4 Turbo.
 
-**Clinical GraphRAG for Echocardiogram Reports** &nbsp; <img src="https://img.shields.io/badge/Research-2DD4BF?style=flat-square" /> <img src="https://img.shields.io/badge/RIT-64748B?style=flat-square" />
-
-`MedGemma + QLoRA → GraphRAG over clinical entities → severity classification`
-
-Fine-tuned a medical LLM and built a graph-based retrieval pipeline that links clinical entities across echocardiogram reports, improving contextual retrieval for rare cardiac conditions. Reached **82.5% F1 and 90% recall on the highest risk class**.
-
 **[→ All AI & GenAI projects](https://github.com/reetu95/projects#-ai--genai)**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
