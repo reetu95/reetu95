@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Reetu</h1>
 
-<h2>Data Scientist building systems that influence real business decisions</h2>
+<h3>Data Scientist building systems that influence real business decisions</h3>
 
 <p>
 <strong>What should we price?</strong> &nbsp; • &nbsp;
