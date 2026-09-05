@@ -1,12 +1,17 @@
 <div align="center">
 
+<h1>Hi, I'm Reetu</h1>
+
+<h3>Data Scientist focused on measurable business impact</h3>
+
+<p>
+  <strong>6+ years of experience</strong> building data science and machine learning solutions
+  across automotive, supply chain, and e-commerce.
+</p>
+
 </div>
 
 <br>
-
-Hi, I'm Reetu
-
-I’m a Data Scientist with over six years of experience delivering measurable business impact through machine learning.
 
 <a href="https://datascience-portfolio-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/reetu-t"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
