@@ -14,6 +14,8 @@
   <br>
   
   Hi, I'm Reetu
+
+  
 I’m a Data Scientist with over six years of experience delivering measurable business impact through machine learning. I developed an automated vehicle-pricing system that increased profit per car by
   approximately 18% and automated 80% of eligible pricing decisions. I also built a supply-chain decision-support solution that identified around 7% in potential cost savings across 10,000–15,000 monthly stock
   transfers. In e-commerce, I developed a recommendation system that increased email-attributed sales by approximately 30% in a randomized A/B test.
