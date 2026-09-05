@@ -112,7 +112,7 @@
   
   <div align="center">
   
-  📫 Open to <b>Data Engineering, Data Science and Applied AI</b> roles &nbsp;·&nbsp; <a href="mailto:reetu.thimmaiah@gmail.com">reetu.thimmaiah@gmail.com</a>
+  📫 Open to <b>Data Science roles</b> roles &nbsp;·&nbsp; <a href="mailto:reetu.thimmaiah@gmail.com">reetu.thimmaiah@gmail.com</a>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A524,50:A78BFA,100:2DD4BF&height=110&section=footer" alt="" />
   
