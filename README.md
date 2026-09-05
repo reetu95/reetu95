@@ -21,39 +21,47 @@ I’m a Data Scientist with over six years of experience delivering measurable b
 <h2>Industry Impact</h2>
 
 <table>
-  <tr>
-    <td width="170" align="center">
-      <img src="images/Automobile.png" width="140" alt="Automobile Pricing">
-    </td>
-    <td>
-      <strong>Vehicle Pricing</strong><br>
-      <strong>↑ ~18% profit per car • 80% automated</strong><br>
-      Developed an automated vehicle pricing system that increased profit per car by approximately 18% and automated 80% of eligible pricing decisions.
-    </td>
-  </tr>
+<tr>
 
-  <tr>
-    <td width="170" align="center">
-      <img src="images/Supplychain.png" width="140" alt="Supply Chain">
-    </td>
-    <td>
-      <strong>Supply Chain Decision Support</strong><br>
-      <strong>~7% potential cost savings • 10,000–15,000 transfers/month</strong><br>
-      Built a supply chain decision-support solution that identified around 7% in potential cost savings across 10,000–15,000 monthly stock transfers.
-    </td>
-  </tr>
+<td width="33%" align="center">
+  <img src="images/Automobile.png" width="220" alt="Vehicle Pricing">
+  <br><br>
+  <strong>Vehicle Pricing</strong>
+  <br>
+  <strong>↑ ~18% profit per car</strong>
+  <br>
+  <strong>80% of pricing automated</strong>
+  <br><br>
+  Built an automated vehicle pricing system for production pricing decisions.
+</td>
 
-  <tr>
-    <td width="170" align="center">
-      <img src="images/Ecommerce.png" width="140" alt="E-commerce">
-    </td>
-    <td>
-      <strong>E-commerce Recommendations</strong><br>
-      <strong>↑ ~30% email-attributed sales</strong><br>
-      Developed a recommendation system that increased email-attributed sales by approximately 30% in a randomized A/B test.
-    </td>
-  </tr>
+<td width="33%" align="center">
+  <img src="images/Supplychain.png" width="220" alt="Supply Chain">
+  <br><br>
+  <strong>Supply Chain Optimization</strong>
+  <br>
+  <strong>~7% potential cost savings</strong>
+  <br>
+  <strong>10K–15K transfers/month</strong>
+  <br><br>
+  Built an ML decision-support system for stock-transfer optimization.
+</td>
+
+<td width="33%" align="center">
+  <img src="images/Ecommerce.png" width="220" alt="E-commerce">
+  <br><br>
+  <strong>E-commerce Recommendations</strong>
+  <br>
+  <strong>↑ ~30% email-attributed sales</strong>
+  <br>
+  <strong>Randomized A/B tested</strong>
+  <br><br>
+  Developed a recommendation system for personalized email recommendations.
+</td>
+
+</tr>
 </table>
+
 Lately I've been working with LLMs: agentic RAG with LangGraph and Llama 3.1,
 multi-agent workflows with CrewAI, and evaluation harnesses using RAGAS.
 
