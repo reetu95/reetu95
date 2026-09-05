@@ -105,7 +105,6 @@
   ### 📄 Research & Writing
   
   - **ASME FEDSM 2026** — Machine learning for instant prediction of spatial temperature variations in heat sinks for computer chip cooling
-  - **Published** — Towards utilizing machine learning and computational fluid dynamics in the classroom for high heat dissipation
   - ✍️  [Blog posts on Medium](https://medium.com/@reetuthimmaiah)
   
   <br>
