@@ -5,7 +5,7 @@
 <h3>Data Scientist focused on measurable business impact</h3>
 
 <p>
-  <strong>6+ years of experience</strong> building data science and machine learning solutions
+  <strong>5+ years of experience</strong> building data science and machine learning solutions
   across automotive, supply chain, and e-commerce.
 </p>
 
