@@ -11,24 +11,35 @@
 
 </div>
 
-  <br>
-  
-  Hi, I'm Reetu
+<br>
 
-  
-I’m a Data Scientist with over six years of experience delivering measurable business impact through machine learning. 
-1) I developed an automated vehicle pricing system that increased profit per car by approximately 18% and automated 80% of eligible pricing decisions.
-2) Built a supply chain decision support solution that identified around 7% in potential cost savings across 10,000–15,000 monthly stock
-  transfers.
-3) In e-commerce, developed a recommendation system that increased email attributed sales by approximately 30% in a randomized A/B test.
+Hi, I'm Reetu
 
-  Lately I've been working with LLMs: agentic RAG with LangGraph and Llama 3.1, multi agent workflows with CrewAI, and evaluation harnesses using RAGAS.
+I’m a Data Scientist with over six years of experience delivering measurable business impact through machine learning.
 
-  Toolkit: Python, SQL, PyTorch, Spark, Kafka, Databricks, Snowflake, dbt, MLflow, AWS, Azure
+1) I developed an automated vehicle pricing system that
+<strong>increased profit per car by approximately 18%</strong> and
+<strong>automated 80% of eligible pricing decisions</strong>.
 
-  M.S. Computer Science, RIT. Research on ML surrogates for thermal prediction published at ASME FEDSM 2026.
+2) Built a supply chain decision support solution that identified
+<strong>around 7% in potential cost savings</strong> across
+<strong>10,000–15,000 monthly stock transfers</strong>.
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
+3) In e-commerce, developed a recommendation system that
+<strong>increased email-attributed sales by approximately 30%</strong>
+in a randomized A/B test.
+
+Lately I've been working with LLMs: agentic RAG with LangGraph and Llama 3.1,
+multi-agent workflows with CrewAI, and evaluation harnesses using RAGAS.
+
+<strong>Toolkit:</strong> Python, SQL, PyTorch, Spark, Kafka, Databricks,
+Snowflake, dbt, MLflow, AWS, Azure
+
+<strong>M.S. Computer Science, RIT.</strong>
+Research on ML surrogates for thermal prediction published at
+<strong>ASME FEDSM 2026</strong>.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
 
   ### 📊 Data Science & ML
 
