@@ -1,18 +1,20 @@
 <div align="center">
 
-<h1>Hi, I'm Reetu</h1>
-
-<h3>Data Scientist building systems that influence real business decisions</h3>
+<h3>I build data science systems that answer real business questions:</h3>
 
 <p>
-<strong>What should we price?</strong> &nbsp; • &nbsp;
-<strong>Where should inventory move?</strong> &nbsp; • &nbsp;
-<strong>What should we recommend?</strong>
-</p>
+  <img src="images/Automobile.png" width="55" valign="middle">
+  &nbsp;<strong>What should we price?</strong>
+  
+  &nbsp;&nbsp; ➜ &nbsp;&nbsp;
 
-<p>
-6+ years applying data science across automotive pricing,
-supply chain optimization, and e-commerce personalization.
+  <img src="images/Supplychain.png" width="55" valign="middle">
+  &nbsp;<strong>Where should inventory move?</strong>
+  
+  &nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+  <img src="images/Ecommerce.png" width="55" valign="middle">
+  &nbsp;<strong>What should we recommend?</strong>
 </p>
 
 </div>
