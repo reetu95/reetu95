@@ -18,17 +18,42 @@ Hi, I'm Reetu
 
 I’m a Data Scientist with over six years of experience delivering measurable business impact through machine learning.
 
-1) I developed an automated vehicle pricing system that
-<strong>increased profit per car by approximately 18%</strong> and
-<strong>automated 80% of eligible pricing decisions</strong>.
+<h3>Selected Impact</h3>
 
-2) Built a supply chain decision support solution that identified
-<strong>around 7% in potential cost savings</strong> across
-<strong>10,000–15,000 monthly stock transfers</strong>.
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="images/Automobile.png" width="95" alt="Automobile Pricing">
+    </td>
+    <td>
+      <strong>Vehicle Pricing</strong><br>
+      <strong>↑ ~18% profit per car • 80% automated</strong><br>
+      Developed an automated vehicle pricing system that increased profit per car by approximately 18% and automated 80% of eligible pricing decisions.
+    </td>
+  </tr>
 
-3) In e-commerce, developed a recommendation system that
-<strong>increased email-attributed sales by approximately 30%</strong>
-in a randomized A/B test.
+  <tr>
+    <td width="120" align="center">
+      <img src="images/Supplychain.png" width="95" alt="Supply Chain">
+    </td>
+    <td>
+      <strong>Supply Chain Decision Support</strong><br>
+      <strong>~7% potential cost savings • 10,000–15,000 transfers/month</strong><br>
+      Built a supply chain decision-support solution that identified around 7% in potential cost savings across 10,000–15,000 monthly stock transfers.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="120" align="center">
+      <img src="images/Ecommerce.png" width="95" alt="E-commerce">
+    </td>
+    <td>
+      <strong>E-commerce Recommendations</strong><br>
+      <strong>↑ ~30% email-attributed sales</strong><br>
+      Developed a recommendation system that increased email-attributed sales by approximately 30% in a randomized A/B test.
+    </td>
+  </tr>
+</table>
 
 Lately I've been working with LLMs: agentic RAG with LangGraph and Llama 3.1,
 multi-agent workflows with CrewAI, and evaluation harnesses using RAGAS.
