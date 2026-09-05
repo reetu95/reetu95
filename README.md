@@ -12,7 +12,6 @@ I’m a Data Scientist with over six years of experience delivering measurable b
 <a href="https://linkedin.com/in/reetu-t"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:reetu.thimmaiah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://medium.com/@reetuthimmaiah"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=reetu95&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <h2>Industry Impact</h2>
 
