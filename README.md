@@ -2,12 +2,16 @@
 
 <h1>Hi, I'm Reetu</h1>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
+
 <h3>Data Scientist focused on measurable business impact</h3>
 
 <p>
   <strong>6 years of experience</strong> building data science and machine learning solutions
   across automotive, supply chain, and e-commerce.
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
 
 </div>
 
