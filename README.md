@@ -17,11 +17,6 @@
   &nbsp;<strong>What should we recommend?</strong>
 </p>
 
-<p>
-6+ years applying data science across automotive pricing,
-supply chain optimization, and e-commerce personalization.
-</p>
-
 <br>
 
 <a href="https://datascience-portfolio-nine.vercel.app/">
