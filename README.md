@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Reetu</h1>
 
-<h3>Data Scientist building systems that influence real business decisions</h3>
+<h3>Data Scientist with 6+ years of experience building systems that drive measurable business impact</h3>
 
 <p>
   <img src="images/Automobile.png" width="45" valign="middle">
