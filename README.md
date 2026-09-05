@@ -18,7 +18,7 @@ Hi, I'm Reetu
 
 I’m a Data Scientist with over six years of experience delivering measurable business impact through machine learning.
 
-<h3>Selected Impact</h3>
+<h2>Industry Impact</h2>
 
 <table>
   <tr>
