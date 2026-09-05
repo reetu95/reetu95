@@ -70,7 +70,6 @@ supply chain optimization, and e-commerce personalization.
   <br>
   <strong>↑ ~30% email-attributed sales</strong>
   <br>
-  <strong>Randomized A/B tested</strong>
   <br><br>
   Developed a recommendation system for personalized email recommendations.
 </td>
