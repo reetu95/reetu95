@@ -4,18 +4,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
 
-<h3>Data Scientist focused on measurable business impact</h3>
+<h2>Data Scientist building systems that influence real business decisions</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/6%2B%20Years%20Experience-A78BFA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automotive-F5A524?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Supply%20Chain-2DD4BF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/E--commerce-8B5CF6?style=for-the-badge" />
+<strong>What should we price?</strong> &nbsp; • &nbsp;
+<strong>Where should inventory move?</strong> &nbsp; • &nbsp;
+<strong>What should we recommend?</strong>
 </p>
 
 <p>
-Building data science and machine learning solutions that turn complex business problems
-into <strong>measurable outcomes.</strong>
+6+ years applying data science across automotive pricing,
+supply chain optimization, and e-commerce personalization.
 </p>
 
 </div>
