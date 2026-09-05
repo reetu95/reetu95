@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F5A524,50:A78BFA,100:2DD4BF&height=190&section=header&text=Reetu%20Thimmaiah&fontSize=58&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Science%20%C2%B7%20Applied%20AI&descSize=17&descAlignY=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F5A524,50:A78BFA,100:2DD4BF&height=190&section=header&text=Reetu%20Thimmaiah&fontSize=58&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Scientist%20%C2%B7%20Applied%20AI&descSize=17&descAlignY=52)
 
 <a href="https://linkedin.com/in/reetu-t"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:reetu.thimmaiah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
