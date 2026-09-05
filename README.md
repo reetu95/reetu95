@@ -2,11 +2,20 @@
 
 <h1>Hi, I'm Reetu</h1>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
+
 <h3>Data Scientist focused on measurable business impact</h3>
 
 <p>
-  <strong>6 years of experience</strong> building data science and machine learning solutions
-  across automotive, supply chain, and e-commerce.
+  <img src="https://img.shields.io/badge/6%2B%20Years%20Experience-A78BFA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automotive-F5A524?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supply%20Chain-2DD4BF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/E--commerce-8B5CF6?style=for-the-badge" />
+</p>
+
+<p>
+Building data science and machine learning solutions that turn complex business problems
+into <strong>measurable outcomes.</strong>
 </p>
 
 </div>
