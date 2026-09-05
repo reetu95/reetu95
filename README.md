@@ -2,8 +2,6 @@
 
 <h1>Hi, I'm Reetu</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A524,50:A78BFA,100:2DD4BF&height=2" />
-
 <h2>Data Scientist building systems that influence real business decisions</h2>
 
 <p>
