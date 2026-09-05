@@ -22,8 +22,8 @@ I’m a Data Scientist with over six years of experience delivering measurable b
 
 <table>
   <tr>
-    <td width="120" align="center">
-      <img src="images/Automobile.png" width="95" alt="Automobile Pricing">
+    <td width="170" align="center">
+      <img src="images/Automobile.png" width="140" alt="Automobile Pricing">
     </td>
     <td>
       <strong>Vehicle Pricing</strong><br>
@@ -33,8 +33,8 @@ I’m a Data Scientist with over six years of experience delivering measurable b
   </tr>
 
   <tr>
-    <td width="120" align="center">
-      <img src="images/Supplychain.png" width="95" alt="Supply Chain">
+    <td width="170" align="center">
+      <img src="images/Supplychain.png" width="140" alt="Supply Chain">
     </td>
     <td>
       <strong>Supply Chain Decision Support</strong><br>
@@ -44,8 +44,8 @@ I’m a Data Scientist with over six years of experience delivering measurable b
   </tr>
 
   <tr>
-    <td width="120" align="center">
-      <img src="images/Ecommerce.png" width="95" alt="E-commerce">
+    <td width="170" align="center">
+      <img src="images/Ecommerce.png" width="140" alt="E-commerce">
     </td>
     <td>
       <strong>E-commerce Recommendations</strong><br>
@@ -54,7 +54,6 @@ I’m a Data Scientist with over six years of experience delivering measurable b
     </td>
   </tr>
 </table>
-
 Lately I've been working with LLMs: agentic RAG with LangGraph and Llama 3.1,
 multi-agent workflows with CrewAI, and evaluation harnesses using RAGAS.
 
