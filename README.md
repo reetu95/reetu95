@@ -7,8 +7,6 @@
 <a href="https://medium.com/@reetuthimmaiah"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=reetu95&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
 
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Data+Science+%E2%86%92+ML+%E2%86%92+AI;Streaming+Pipelines%2C+Lakehouse+%26+MLOps;Agentic+RAG%2C+LLM+Fine-Tuning+%26+Evaluation;7+years+turning+data+into+decisions" alt="typing" />
 
 </div>
