@@ -7,14 +7,10 @@
 <p>
   <strong>What should we price?</strong>
   &nbsp;&nbsp; • &nbsp;&nbsp;
-
   <strong>Where should inventory move?</strong>
   &nbsp;&nbsp; • &nbsp;&nbsp;
-
   <strong>What should we recommend?</strong>
 </p>
-
-</div>
 
 <br>
 
