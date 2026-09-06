@@ -5,17 +5,16 @@
 <h3>Data Scientist with 6+ years of experience building systems that drive measurable business impact</h3>
 
 <p>
-  <img src="images/Automobile.png" width="45" valign="middle">
-  &nbsp;<strong>What should we price?</strong>
+  <strong>What should we price?</strong>
   &nbsp;&nbsp; • &nbsp;&nbsp;
 
-  <img src="images/Supplychain.png" width="45" valign="middle">
-  &nbsp;<strong>Where should inventory move?</strong>
+  <strong>Where should inventory move?</strong>
   &nbsp;&nbsp; • &nbsp;&nbsp;
 
-  <img src="images/Ecommerce.png" width="45" valign="middle">
-  &nbsp;<strong>What should we recommend?</strong>
+  <strong>What should we recommend?</strong>
 </p>
+
+</div>
 
 <br>
 
