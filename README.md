@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Reetu</h1>
 
-<h3>Data Scientist · Experimentation, Causal Inference & ML</h3>
+<h3>Data Scientist · Machine Learning</h3>
 
 <p>6+ years turning data into pricing, supply chain, and product decisions</p>
 
